@@ -36,3 +36,10 @@ md "Pará"
 md "Rondônia"
 md "Roraima"
 md "Tocantins"
+
+cd .. 
+
+cd "Sul"
+md "Paraná'
+md "Santa Catarina"
+md "Rio Grande do Sul"

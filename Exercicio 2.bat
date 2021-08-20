@@ -25,3 +25,14 @@ md "Pernambuco"
 md "Piauí"
 md "Rio Grande do Norte"
 md "Sergipe"
+
+cd ..
+
+cd "Norte"
+md "Acre"
+md "Amapá"
+md "Amazonas"
+md "Pará"
+md "Rondônia"
+md "Roraima"
+md "Tocantins"
